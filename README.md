@@ -6,30 +6,36 @@ I’m transitioning from commercial no-code development to production-ready fron
 
 ## 👨‍💻 About me
 - 15+ commercial projects in no-code development
-- Now focused on React, TypeScript, REST API integration, and scalable frontend architecture
+- Now focused on frontend engineering
 - English: Upper intermediate
 - Magister degree of computer science (with honours)
 
 ## 🛠️ Tech stack
-- React
-- TypeScript
-- JavaScript
-- HTML
-- Tailwind / CSS / SCSS 
-- Zustand
-- Redux
-- React Hook Form
-- Zod
-- Tanstack query
-- REST API
-- Vite
-- Git / GitHub
+
+![React](https://img.shields.io/badge/-React-000?logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-000?logo=html5)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?logo=tailwindcss)
+![SCSS](https://img.shields.io/badge/-SCSS-000?logo=sass)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=css)
+![Zustand](https://img.shields.io/badge/-Zustand-000?logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000?logo=redux)
+![React Hook Form](https://img.shields.io/badge/-ReactHookForm-000?logo=reacthookform)
+![Zod](https://img.shields.io/badge/-Zod-000?logo=zod)
+![TanStack Query](https://img.shields.io/badge/-TanStackQuery-000?logo=reactquery)
+![REST API](https://img.shields.io/badge/-REST%20API-000?logo=restapi)
+![Axios](https://img.shields.io/badge/-axios-000?logo=axios)
+![Vite](https://img.shields.io/badge/-Vite-000?logo=vite)
+![Git](https://img.shields.io/badge/-Git-000?logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
 
 ## ✨ My top projects
 
 ### 🐾 Hold the Paw (In progress)
 
-Pet Adoption Platform is a web application that helps shelters, companies, and individual users create pet profiles, manage their own listings, and help people find animals through search and filters.
+Pet Adoption Platform — a team-based responsive web app for pet adoption and animal support.
+Worked on app architecture, API integration, async flows, state management, form validation, JWT auth, pet profiles, and user profile features.
 
 [Repository](https://github.com/ViktorStupin/hold-the-paw-fe)
 
