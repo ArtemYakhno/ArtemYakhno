@@ -2,7 +2,6 @@
 # Hi, I'm Artem Yakhno 👋
 
 Frontend Developer focused on building modern web applications with React and TypeScript and modern frontend stack ⚛️  
-I’m transitioning from commercial no-code development to production-ready frontend engineering 🚀
 
 ## 👨‍💻 About me
 - 15+ commercial projects in no-code development
