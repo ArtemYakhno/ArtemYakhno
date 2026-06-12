@@ -3,7 +3,7 @@ Fullstack Developer building modern web applications with React, TypeScript, and
 
 ## 👨‍💻 About me
 - Successfully completed an internship at **GroupBWT** as a Fullstack Developer → resulted in [Verify](https://github.com/ArtemYakhno/verify)
-- Successfully completed **MateAcademy** Frontend course → resulted in [Hold the Paw](https://github.com/ArtemYakhno/hold-the-paw-fe)
+- Successfully completed **Mate Academy** Frontend course → resulted in [Hold the Paw](https://github.com/ArtemYakhno/hold-the-paw-fe)
 - 15+ commercial projects in no-code development
 - English: Upper Intermediate
 - Master's degree in Computer Science (with honours)
