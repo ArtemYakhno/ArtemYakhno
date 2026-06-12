@@ -51,7 +51,7 @@ Fullstack Developer building modern web applications with React, TypeScript, and
 Fullstack monorepo application for managing galleries and images. Built during internship at GroupBWT.
 Features JWT auth with silent refresh, role-based access control, admin invitation flow, Cloudinary media uploads, soft delete with MANUAL/INHERIT logic, URL-persisted filters, and responsive UI.
 
-[Live Demo](https://verify-web-six.vercel.app/) · [Repository](https://github.com/ArtemYakhno/verify)
+[Live Demo](https://verify-web-six.vercel.app/auth/sign-in) · [Repository](https://github.com/ArtemYakhno/verify)
 
 ### 🐾 Hold the Paw
 Pet Adoption Platform — a team-based responsive web app for pet adoption and animal support. Built as a final project during MateAcademy course.
