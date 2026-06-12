@@ -54,8 +54,7 @@ Features JWT auth with silent refresh, role-based access control, admin invitati
 [Live Demo](https://verify-web-six.vercel.app/auth/sign-in) · [Repository](https://github.com/ArtemYakhno/verify)
 
 ### 🐾 Hold the Paw
-Pet Adoption Platform — a team-based responsive web app for pet adoption and animal support. Built as a final project during MateAcademy course.
-Worked on app architecture, API integration, async flows, state management, form validation, JWT auth, pet profiles, and user profile features.
+Pet Adoption Platform — a team-based responsive web app for pet adoption and animal support. Worked on app architecture, API integration, async flows, state management, form validation, JWT auth, pet profiles, and user profile features.
 
 [Live Demo](https://hold-the-paw-fe.vercel.app/) · [Repository](https://github.com/ArtemYakhno/hold-the-paw-fe)
 
