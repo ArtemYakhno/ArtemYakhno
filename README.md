@@ -33,17 +33,18 @@ Fullstack Developer building modern web applications with React, TypeScript, and
 ![NestJS](https://img.shields.io/badge/-NestJS-000?logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?logo=prisma)
-![JWT](https://img.shields.io/badge/-JWT-000?logo=jsonwebtokens)
 ![REST API](https://img.shields.io/badge/-REST%20API-000?logo=restapi)
-![Swagger](https://img.shields.io/badge/-Swagger-000?logo=swagger)
 ![Jest](https://img.shields.io/badge/-Jest-000?logo=jest)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
 
-**Tools**
+**Tools & Practices**
 
 ![Git](https://img.shields.io/badge/-Git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-000?logo=anthropic)
+![Swagger](https://img.shields.io/badge/-Swagger-000?logo=swagger)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
+
+
 
 ## ✨ My top projects
 
