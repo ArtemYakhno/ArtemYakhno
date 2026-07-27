@@ -59,6 +59,10 @@ Pet Adoption Platform — a team-based responsive web app for pet adoption and a
 
 [Live Demo](https://hold-the-paw-fe.vercel.app/) · [Repository](https://github.com/ArtemYakhno/hold-the-paw-fe)
 
+### 🗃 Task manager
+A web application for task management: users log in, create tasks, change their status, filter and sort the list, and can share their task list via email through a read-only live link.
+[Live Demo](https://github.com/ArtemYakhno/TaskManager) · [Repository](https://todo-app-viyar-frontend.vercel.app/tasks)
+
 ### 🚗 VIN Decoder
 A responsive web app for decoding Vehicle Identification Numbers (VINs) using the public NHTSA vPIC API. Supports 17-character VIN validation and displays detailed vehicle info — make, model, year, country of origin, and more.
 
@@ -74,10 +78,6 @@ Responsive landing page with a strong focus on UI animations. Implemented intera
 
 [Live Demo](https://artemyakhno.github.io/landing_page_air/) · [Repository](https://github.com/ArtemYakhno/landing_page_air)
 
-### 🎮 2048 Game
-Project built with vanilla JavaScript. Includes complete game logic, grid state management, and keyboard event handling without external frameworks.
-
-[Live Demo](https://artemyakhno.github.io/game_2048/) · [Repository](https://github.com/ArtemYakhno/game_2048)
 
 ## 📫 Contact
 - LinkedIn: [ArtemYakhno](https://www.linkedin.com/in/artem-yakhno-2b9305258/)
