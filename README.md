@@ -61,6 +61,7 @@ Pet Adoption Platform — a team-based responsive web app for pet adoption and a
 
 ### 🗃 Task manager
 A web application for task management: users log in, create tasks, change their status, filter and sort the list, and can share their task list via email through a read-only live link.
+
 [Live Demo](https://github.com/ArtemYakhno/TaskManager) · [Repository](https://todo-app-viyar-frontend.vercel.app/tasks)
 
 ### 🚗 VIN Decoder
