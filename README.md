@@ -26,6 +26,7 @@ Fullstack Developer building modern web applications with React, TypeScript, and
 ![TanStack Query](https://img.shields.io/badge/-TanStackQuery-000?logo=reactquery)
 ![Axios](https://img.shields.io/badge/-Axios-000?logo=axios)
 ![Vite](https://img.shields.io/badge/-Vite-000?logo=vite)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
 ![Vitest](https://img.shields.io/badge/-Vitest-000?logo=vitest)
 
 **Backend**
