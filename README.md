@@ -63,8 +63,7 @@ Pet Adoption Platform — a team-based responsive web app for pet adoption and a
 ### 🗃 Task manager
 A web application for task management: users log in, create tasks, change their status, filter and sort the list, and can share their task list via email through a read-only live link.
 
-[Live Demo](https://github.com/ArtemYakhno/TaskManager) · [Repository](https://todo-app-viyar-frontend.vercel.app/tasks)
-
+[Live Demo]( https://todo-app-viyar-frontend.vercel.app/tasks) · [Repository](https://github.com/ArtemYakhno/TaskManager)
 ### 🚗 VIN Decoder
 A responsive web app for decoding Vehicle Identification Numbers (VINs) using the public NHTSA vPIC API. Supports 17-character VIN validation and displays detailed vehicle info — make, model, year, country of origin, and more.
 
